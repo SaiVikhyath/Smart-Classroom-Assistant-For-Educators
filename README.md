@@ -1,4 +1,4 @@
-# Cloud_project_2 - PaaS
+# Cloud Project 2 - PaaS
 This project is a part of course work CSE 546: Cloud Computing.
 Professor - Yuli Deng.
 
